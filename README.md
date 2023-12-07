@@ -10,7 +10,8 @@ We will go through different sources that helped me through the journey
     - ![image](https://github.com/vinitkesh/learning_flutter.vktori/assets/139075087/a9e27be0-832f-4991-bf06-b8875e38a691)
       - and 
     - ![image](https://github.com/vinitkesh/learning_flutter.vktori/assets/139075087/9e83eef2-0837-4a69-bd95-9671c5830941)
--
+- I used [this](https://dev.to/fullstackhacker/install-flutter-on-debian-3g3h) website to guide my installation on debian
+- 
 
 ---
 ## 2. Introduction
