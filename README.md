@@ -16,6 +16,8 @@ We will go through different sources that helped me through the journey
 ## 2. Introduction
 - I think a very good intro to flutter (or most other softwares) is a good ol fireship video
 - As always i started with [Flutter in 100 seconds](https://www.youtube.com/watch?v=lHhRhPV--G0&list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY&index=18)
+- Also [Dart in 100 Seconds](https://www.youtube.com/watch?v=NrO0CJCbYLA&list=PL0vfts4VzfNiQYtnn1TZ6U0Ec_vjCN9VY&index=21)
+- 
 ---
 ## 3. Hello World
 ---
